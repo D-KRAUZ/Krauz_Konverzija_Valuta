@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Krauz_Konverzija_Valuta</string>
+    <string-array name="Tecaji">
+
+        <item>Srednji Tečaj</item>
+
+        <item>Kupovni Tečaj</item>
+
+        <item>Prodajni Tečaj</item>
+
+
+
+    </string-array>
+
+</resources>
